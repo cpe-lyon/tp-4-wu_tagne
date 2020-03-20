@@ -439,7 +439,9 @@ user@server:~$ ls -R -l /etc/passwd
 Oui, car il a pour utilisateur courant le root donc on a tout les droits.
 
 Pour les plus rapides :
+
 15. Access Control Lists (ACL) : suivez le tutoriel de cette page :https://doc.ubuntu-fr.org/acl.
+
 16. Quotas disques : suivez le tutoriel de cette page : https://doc.ubuntu-fr.org/quota.
 
 
